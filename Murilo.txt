@@ -1,0 +1,50 @@
+mkdir Atividade01
+cd Atividade01
+echo murilo >> Nota01.txt
+echo 29/02/2024 >> Nota02.txt
+type Nota02.txt
+type Nota01.txt
+cd Desktop
+cls
+cd ..
+mkdir Backup
+copy
+cls
+mkdir Backup
+cd Backup
+move /y Nota01.txt Backup
+copy
+history
+doskey /history
+Embora possa ser considerada uma metodologia distinta, o gerenciamento de projetos µgil ‚ bastante associado …s metodologias Scrum e Kanban. No entanto, existem diferen‡as importantes entre o µgil e o Waterfall. O µgil trata de fluxos de trabalho adaptativos e simultƒneos, enquanto no gerenciamento de projetos Waterfall, os projetos sÆo divididos em fases lineares e sequenciais, e cada parte do projeto depende da conclusÆo das entregas anteriores.cls
+cls
+cd ..
+ren Atividade01 Trabalhos
+mk dir Documentos
+mkdir Documentos
+cd Documentos
+mkdir Pessoais >> Documentos
+mkdir Projetos >> Documentos
+move Trabalhos Documentos
+move Backups Documentos
+cd ..
+move Backup Documentos
+move Trabalhos Documentos
+ren Pessoais Lazer
+cd Documentos
+ren Pessoais Documentos
+ren Documentos Lazer
+cd Lazer
+echo Inglaterra \n  Eua \n Suecia \n Portugal \n Gr‚cia \n >> Viagem.txt
+echo Inglaterra,  Eua, Suecia, Portugal, Gr‚cia >> Viagem.txt
+echo Inglaterra, echo.  Eua, echo.  Suecia, Portugal, Gr‚cia >> Viagem.txt
+echo. Inglaterra, echo. Paris >> Viagem.txt
+echo Inglaterra >> Viagem.txt
+echo Eua >> Viagem.txt
+echo Espanha >> Viagem.txt
+echo Portugal >> Viagem.txt
+echo It lia >> Viagem.txt
+cd ..
+dir
+tree /f
+doskey/history >> Murilo.txt
