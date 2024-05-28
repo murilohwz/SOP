@@ -16,7 +16,7 @@ move /y Nota01.txt Backup
 copy
 history
 doskey /history
-Embora possa ser considerada uma metodologia distinta, o gerenciamento de projetos µgil ‚ bastante associado …s metodologias Scrum e Kanban. No entanto, existem diferen‡as importantes entre o µgil e o Waterfall. O µgil trata de fluxos de trabalho adaptativos e simultƒneos, enquanto no gerenciamento de projetos Waterfall, os projetos sÆo divididos em fases lineares e sequenciais, e cada parte do projeto depende da conclusÆo das entregas anteriores.cls
+Embora possa ser considerada uma metodologia distinta, o gerenciamento de projetos Âµgil â€š bastante associado â€¦s metodologias Scrum e Kanban. No entanto, existem diferenâ€¡as importantes entre o Âµgil e o Waterfall. O Âµgil trata de fluxos de trabalho adaptativos e simultÆ’neos, enquanto no gerenciamento de projetos Waterfall, os projetos sÃ†o divididos em fases lineares e sequenciais, e cada parte do projeto depende da conclusÃ†o das entregas anteriores.cls
 cls
 cd ..
 ren Atividade01 Trabalhos
@@ -35,15 +35,15 @@ cd Documentos
 ren Pessoais Documentos
 ren Documentos Lazer
 cd Lazer
-echo Inglaterra \n  Eua \n Suecia \n Portugal \n Gr‚cia \n >> Viagem.txt
-echo Inglaterra,  Eua, Suecia, Portugal, Gr‚cia >> Viagem.txt
-echo Inglaterra, echo.  Eua, echo.  Suecia, Portugal, Gr‚cia >> Viagem.txt
+echo Inglaterra \n  Eua \n Suecia \n Portugal \n Grâ€šcia \n >> Viagem.txt
+echo Inglaterra,  Eua, Suecia, Portugal, Grâ€šcia >> Viagem.txt
+echo Inglaterra, echo.  Eua, echo.  Suecia, Portugal, Grâ€šcia >> Viagem.txt
 echo. Inglaterra, echo. Paris >> Viagem.txt
 echo Inglaterra >> Viagem.txt
 echo Eua >> Viagem.txt
 echo Espanha >> Viagem.txt
 echo Portugal >> Viagem.txt
-echo It lia >> Viagem.txt
+echo ItÂ lia >> Viagem.txt
 cd ..
 dir
 tree /f
